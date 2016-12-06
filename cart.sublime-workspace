@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"href	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/panel.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/pagination.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/pager.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/media2.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/media1.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/listgroup.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/labels.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/inputSizing.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/input.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/form.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/collapse.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/carousel.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/breadcrumbs.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/accordion.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/bagdes.html",
+		"/C/Users/BumbleBee/Desktop/Mids/Lecture_8/Lecture 8/media.html",
+		"/C/wamp/www/Cuisine/result.php",
+		"/C/Users/BumbleBee/Desktop/index",
+		"/C/Users/BumbleBee/Desktop/Bootstrap",
+		"/F/phonegap/AugmentedRealityProject/www/js/imageontarget.js",
+		"/F/phonegap/AugmentedRealityProject/www/Image.html",
+		"/F/phonegap/AugmentedRealityProject/www/demo.html",
+		"/F/phonegap/AugmentedRealityProject/www/index.html",
+		"/C/Users/BumbleBee/Desktop/SampleAppResources/world/1_ClientRecognition_1_ImageOnTarget/index.html",
+		"/C/wamp/www/Cuisine/functions/functions.php",
+		"/C/wamp/www/Cuisine/index.php",
+		"/C/wamp/www/Cuisine/details.php",
+		"/C/wamp/www/Cuisine/cart.php",
+		"/C/wamp/www/Cuisine/all_products.php",
+		"/F/phonegap/New folder/Raza/www/plugin.xml",
+		"/F/phonegap/New folder/Raza/www/plugin.html",
+		"/F/phonegap/New folder/Raza/www/index.html",
+		"/C/wamp/www/Cuisine/css/custom.css",
+		"/C/wamp/www/Cuisine/css/animate.css",
+		"/C/wamp/www/Cuisine/css/bootstrap-theme.css.map",
+		"/C/wamp/www/Cuisine/css/bootstrap-theme.css",
+		"/C/wamp/www/Cuisine/css/bootstrap.min.css.map",
+		"/C/wamp/www/Cuisine/css/bootstrap.min.css",
+		"/C/wamp/www/Cuisine/css/bootstrap.css",
+		"/C/wamp/www/Cuisine/css/bootstrap-theme.min.css",
+		"/C/Users/BumbleBee/Desktop/Web.html",
+		"/C/Users/BumbleBee/Desktop/Web development",
+		"/C/Users/BumbleBee/Desktop/W3 Practice/css/w3.css",
+		"/C/Users/BumbleBee/Desktop/W3 Practice/Practice.html",
+		"/C/Users/BumbleBee/Desktop/W3 Practice/Practice2.html",
+		"/C/Users/BumbleBee/Desktop/W3 Practice/Practice2.htmal",
+		"/C/Users/BumbleBee/Desktop/css2.html",
+		"/C/Users/BumbleBee/Desktop/ajs.html",
+		"/C/Users/BumbleBee/Desktop/PHISHING PAGES/auto like/index.php",
+		"/C/Users/BumbleBee/Desktop/delicious-v.1/img/foto/02.jpg",
+		"/C/Users/BumbleBee/Desktop/PHISHING PAGES/phish/follow.jpg",
+		"/C/Users/BumbleBee/Desktop/New/Follow.jpg",
+		"/C/Users/BumbleBee/Desktop/New/index.php",
+		"/C/Users/BumbleBee/Desktop/New/data.php",
+		"/C/Users/BumbleBee/Desktop/New/SoftwareDownload.jpg",
+		"/C/Users/BumbleBee/Desktop/New/index.jpg"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cart.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
